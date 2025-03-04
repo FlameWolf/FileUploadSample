@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"FileUploadSample": {
+			"commandName": "Project",
+			"environmentVariables": {
+				"IOTHUB_DEVICE_CONN_STRING": "HostName=ajith-nair-iot.azure-devices.net;DeviceId=iot-test-device;SharedAccessKey=3ETFrRujSG3QhStcgz3LHVFUcouNlnpK8uVJj3omces="
+			}
+		}
+	}
+}
